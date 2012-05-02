@@ -2,7 +2,7 @@
 Installing git on Red Hat Enterprise Linux (RHEL5)
 Posted on November 9, 2009 by MXWest
 Background
-
+git
 I am looking for a more flexible, faster Source Code Management system as development expands both in and out of house. Especially now with our increased use of Magento – some people are doing style sheets, some doing templates, some doing new scripts and still others code.
 
 It’s increasingly difficult to manage with CVS alone. It’s damn near impossible to not make every site always the latest and greatest because branching and merging would make several heads explode.
